@@ -1,0 +1,6 @@
+{
+  "name": "Bouncy: Pocket Quest",
+  "description": "A 2D physics bouncing ball platformer and native Android game with responsive touch controls, squash-and-stretch animation, and level progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
